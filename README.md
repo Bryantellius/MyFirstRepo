@@ -18,5 +18,4 @@
 - Create a section about your education (i.e, TrueCoders, anything else relevant)
 - Create a section detailing anything extra
 - Add information you think is relevant here. For example (awards, certifications, recommendations)
-- If you already have a resume, allow an employer to download your resume
 - Give the document a relevant title

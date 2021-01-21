@@ -1,0 +1,11 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 200px 200px 200px 200px;
+  border: 1px dashed black;
+}
+
+.wrapper > div {
+  background-color: cadetblue;
+  border: 1px solid gray;
+}
